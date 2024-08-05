@@ -26,6 +26,8 @@ dependencies:
   font_awesome_flutter: ^10.7.0
   bloc_concurrency: ^0.2.5
   logging: ^1.2.0
+  json_dynamic_widget: 7.2.0+6
+  dartz: ^0.10.1
 
 dev_dependencies:
   flutter_test:

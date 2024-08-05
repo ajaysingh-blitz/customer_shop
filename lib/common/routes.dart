@@ -5,6 +5,12 @@ class AppRoutes {
   static const String SPLASH_ROUTE_NAME = 'splash';
   static const String SPLASH_ROUTE_PATH = '/';
 
+
+  // Splash routes
+  static const String HOME_ROUTE_NAME = 'home';
+  static const String HOME_ROUTE_PATH = '/home';
+
+
   // Authentications routes
   static const String ONBOARDING_ROUTE_NAME = 'onboarding';
   static const String ONBOARDING_ROUTE_PATH = '/onboarding';
